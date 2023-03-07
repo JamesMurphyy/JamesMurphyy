@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 - Experience in business, web-development and fast-paced work environments.
 - Active individual with a strong commitment to learn and exceptional understanding in all areas of research, planning, development and testing.
 - Currently expanding knowledge of Web Development by Self. 
-- I’m currently looking for an Intern role or job opportunity.
-- I am seeking a challenging opportunity where I can apply my web developing skills and expand my learnings to gain more field experience.
+- Actively looking for an Intern position or job opportunity that can challenge myself and allow me to expand my learnings to gain more field experience.
 
   
 ## Quick Links
