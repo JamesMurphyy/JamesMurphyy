@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 - Experience in business, web-development and fast-paced work environments.
 - Active individual with a strong commitment to learn and exceptional understanding in all areas of research, planning, development and testing.
 - Currently expanding knowledge of Web Development by Self. 
