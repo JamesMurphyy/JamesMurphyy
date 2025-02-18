@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   
 ## Quick Links
 - 📃 [Resume](https://github.com/JamesMurphyy/Resume/blob/main/James%20Murphy%20Resume.pdf)
-- 💾 [Personal Website](https://james-murphy-portfolio.vercel.app/)
+- 💾 [Personal Website](https://jamesmurphy.netlify.app/)
 - 📫 jamesm8228@gmail.com
 - :necktie: [LinkedIn](https://www.linkedin.com/in/james-d-murphy/)
 
